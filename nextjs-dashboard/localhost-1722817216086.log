@@ -1,0 +1,80 @@
+localhost/:1 
+        
+        
+       GET http://localhost:3000/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhero-mobile.5fe09fff.png&w=1080&q=75 net::ERR_CONNECTION_REFUSED
+main-app.js?v=1722817190855:1915 Download the React DevTools for a better development experience: https://react.dev/link/react-devtools
+use-websocket.js:42 WebSocket connection to 'ws://localhost:3000/_next/webpack-hmr' failed: 
+eval @ use-websocket.js:42
+commitHookEffectListMount @ react-dom-client.development.js:22319
+commitHookPassiveMountEffects @ react-dom-client.development.js:24414
+commitPassiveMountOnFiber @ react-dom-client.development.js:24517
+runWithFiberInDEV @ react-dom-client.development.js:1152
+recursivelyTraversePassiveMountEffects @ react-dom-client.development.js:24495
+commitPassiveMountOnFiber @ react-dom-client.development.js:24624
+runWithFiberInDEV @ react-dom-client.development.js:1152
+recursivelyTraversePassiveMountEffects @ react-dom-client.development.js:24495
+commitPassiveMountOnFiber @ react-dom-client.development.js:24624
+runWithFiberInDEV @ react-dom-client.development.js:1152
+recursivelyTraversePassiveMountEffects @ react-dom-client.development.js:24495
+commitPassiveMountOnFiber @ react-dom-client.development.js:24624
+runWithFiberInDEV @ react-dom-client.development.js:1152
+recursivelyTraversePassiveMountEffects @ react-dom-client.development.js:24495
+commitPassiveMountOnFiber @ react-dom-client.development.js:24624
+runWithFiberInDEV @ react-dom-client.development.js:1152
+recursivelyTraversePassiveMountEffects @ react-dom-client.development.js:24495
+commitPassiveMountOnFiber @ react-dom-client.development.js:24624
+runWithFiberInDEV @ react-dom-client.development.js:1152
+recursivelyTraversePassiveMountEffects @ react-dom-client.development.js:24495
+commitPassiveMountOnFiber @ react-dom-client.development.js:24624
+runWithFiberInDEV @ react-dom-client.development.js:1152
+recursivelyTraversePassiveMountEffects @ react-dom-client.development.js:24495
+commitPassiveMountOnFiber @ react-dom-client.development.js:24514
+runWithFiberInDEV @ react-dom-client.development.js:1152
+recursivelyTraversePassiveMountEffects @ react-dom-client.development.js:24495
+commitPassiveMountOnFiber @ react-dom-client.development.js:24624
+runWithFiberInDEV @ react-dom-client.development.js:1152
+recursivelyTraversePassiveMountEffects @ react-dom-client.development.js:24495
+commitPassiveMountOnFiber @ react-dom-client.development.js:24514
+runWithFiberInDEV @ react-dom-client.development.js:1152
+recursivelyTraversePassiveMountEffects @ react-dom-client.development.js:24495
+commitPassiveMountOnFiber @ react-dom-client.development.js:24514
+runWithFiberInDEV @ react-dom-client.development.js:1152
+recursivelyTraversePassiveMountEffects @ react-dom-client.development.js:24495
+commitPassiveMountOnFiber @ react-dom-client.development.js:24514
+runWithFiberInDEV @ react-dom-client.development.js:1152
+recursivelyTraversePassiveMountEffects @ react-dom-client.development.js:24495
+commitPassiveMountOnFiber @ react-dom-client.development.js:24514
+runWithFiberInDEV @ react-dom-client.development.js:1152
+recursivelyTraversePassiveMountEffects @ react-dom-client.development.js:24495
+commitPassiveMountOnFiber @ react-dom-client.development.js:24624
+runWithFiberInDEV @ react-dom-client.development.js:1152
+recursivelyTraversePassiveMountEffects @ react-dom-client.development.js:24495
+commitPassiveMountOnFiber @ react-dom-client.development.js:24624
+runWithFiberInDEV @ react-dom-client.development.js:1152
+recursivelyTraversePassiveMountEffects @ react-dom-client.development.js:24495
+commitPassiveMountOnFiber @ react-dom-client.development.js:24624
+runWithFiberInDEV @ react-dom-client.development.js:1152
+recursivelyTraversePassiveMountEffects @ react-dom-client.development.js:24495
+commitPassiveMountOnFiber @ react-dom-client.development.js:24525
+runWithFiberInDEV @ react-dom-client.development.js:1152
+commitPassiveMountEffects @ react-dom-client.development.js:24485
+flushPassiveEffectsImpl @ react-dom-client.development.js:29445
+flushPassiveEffects @ react-dom-client.development.js:29386
+commitRootImpl @ react-dom-client.development.js:29288
+commitRoot @ react-dom-client.development.js:29034
+performSyncWorkOnRoot @ react-dom-client.development.js:27914
+flushSyncWorkAcrossRoots_impl @ react-dom-client.development.js:30065
+flushSyncWorkOnAllRoots @ react-dom-client.development.js:30032
+flushRoot @ react-dom-client.development.js:27930
+attemptSynchronousHydration @ react-dom-client.development.js:36588
+dispatchEvent @ react-dom-client.development.js:37045
+dispatchDiscreteEvent @ react-dom-client.development.js:36997
+Show 65 more frames
+Show less
+:3000/favicon.ico:1 
+        
+        
+       GET http://localhost:3000/favicon.ico net::ERR_CONNECTION_REFUSED
+localhost/:1 The resource http://localhost:3000/_next/static/media/a34f9d1faa5f3315-s.p.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+localhost/:1 The resource http://localhost:3000/_next/static/media/c556ae4be4c9cfa8-s.p.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+localhost/:1 The resource http://localhost:3000/_next/static/media/ebd7dc65a6ba3e83-s.p.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
